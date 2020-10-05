@@ -1,0 +1,59 @@
+body{
+background-image: url(E:\图片\北大标本馆1.jpg);
+background-position: center center;
+background-repeat:repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color: #CCC
+}
+body{
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+	border-width:1px;
+	border-style:solid;
+	border-color:firebrick;
+	border-radius:5px;
+}
+h1{
+	color:red;
+	font-size:35px;
+}
+#heihei{
+	color:purple;
+}
+.yu{
+	color:	peru;
+}
+*{
+	font-family: courier;
+}
+h3,h4{
+	color:slateblue;
+}
+#dhdh{
+	font-weight: bolder;
+	font-size: 20px;
+}
+.parent{
+	text-align: center;
+}
+.child{
+	width:100px;
+	margin:auto;
+	border:1px magenta;
+}
+.www{
+	text-align: right;
+}
+table{
+	border:1px solid gold;
+}
+td{
+	border: 1px solid orangered;
+}
+.ccc{
+	font-size:25px;
+	color:red
+	
+}
