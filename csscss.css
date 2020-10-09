@@ -1,15 +1,20 @@
 body{
-	width:560px;
+	width:960px;
 	margin-left:auto;
 	margin-right:auto;
 	border-width:1px;
-	border-style:solid;
+	border-style:double;
 	border-color:firebrick;
 	border-radius:5px;
+	padding-left: 20px
+	padding-right:20px;
+	padding-bottom: 20px
 }
 h1{
-	color:red;
+	color:black;
 	font-size:35px;
+	font-family:"Times New Roman", Times, serif;
+cursor:help
 }
 #heihei{
 	color:purple;
@@ -37,6 +42,7 @@ h3,h4{
 }
 .www{
 	text-align: right;
+	margin:10px;
 }
 table{
 	border:1px solid gold;
@@ -48,4 +54,81 @@ td{
 	font-size:25px;
 	color:red
 	
+}
+#guoqing,#guoqingjie{
+	border-width:1px;
+	border-style: solid;
+	border-color:gray;
+	border-radius:15px;
+	margin:5px;
+}
+#guo{
+	display:table
+	width:948px;
+}
+#guoqing,#guoqingjie{
+	display:table-cell;
+}
+#guoqing{
+width:150px;
+text-align: center;
+padding:20px;
+}
+#guoqingjie{
+	width:750px;
+
+	padding: 20px
+
+}
+#my,#myself{
+	border-width:1px;
+	border-style: solid;
+	border-color:gray;
+	border-radius:15px;
+	margin:5px;
+}
+#I{
+	display:table
+	width:948px;
+}
+#my,#myself{
+	display:table-cell;
+}
+#my{
+width:160px;
+text-align: center;
+padding:20px;
+margin:0px;
+}
+#myself{
+	width:750px;
+
+	padding: 20px
+
+}
+#tab{
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+	border-width:1px;
+	border-style:double;
+	border-color:gray;
+	border-radius:5px;
+	padding-left: auto
+	padding-right:auto;
+	padding-bottom:20px
+	margin-top:10px;
+}
+#mys{
+	width:200px;
+	margin-left:auto;
+	margin-right:auto;
+	border-width:1px;
+	border-style:double;
+	border-color:gray;
+	border-radius:5px;
+	padding-left: auto
+	padding-right:auto;
+	padding-bottom:20px
+	margin-bottom:10px;
 }
