@@ -61,6 +61,8 @@ td{
 	border-color:gray;
 	border-radius:15px;
 	margin:5px;
+	background-color:green;
+		opacity:0.2;
 }
 #guo{
 	display:table
@@ -86,6 +88,8 @@ padding:20px;
 	border-color:gray;
 	border-radius:15px;
 	margin:5px;
+	background-color:green;
+	opacity:0.2;
 }
 #I{
 	display:table
